@@ -1,0 +1,20 @@
+.Note {
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.Note p {
+  padding: 10px;
+}
+
+.Note h3 {
+  margin: 10px;
+}
+
+.Note button {
+  margin-left: 15px;
+}
